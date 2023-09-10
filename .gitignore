@@ -161,3 +161,7 @@ cython_debug/
 
 # Temp folders
 tmp_game/
+
+# All files in output/task_* called temp_user_combined.py and temp_combined.py
+output/task_*/temp_user_combined.py
+output/task_*/temp_combined.py
